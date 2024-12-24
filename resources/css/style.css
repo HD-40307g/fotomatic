@@ -152,7 +152,6 @@ header .mobile {
 #sign-up-cta .content {
   width: 25.625rem;
   margin-top: 2rem;
-  font-family: "Roboto", sans-serif;
   font-size: 1.25rem;
   line-height: 1.4;
   color: white;
@@ -205,14 +204,6 @@ header .mobile {
 
   #sign-up-cta .email {
     display: none;
-  }
-
-  #sign-up-cta h1 {
-    font-size: 3.125rem;
-  }
-
-  #sign-up-cta h2 {
-    font-size: 2.25rem;
   }
 }
 
